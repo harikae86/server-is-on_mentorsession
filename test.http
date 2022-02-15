@@ -1,0 +1,4 @@
+POST http://localhost:8080/api/students
+Content-Type: application/json
+
+{ "id": 998, "name": "Pandacsöki Boborján", "status": true }

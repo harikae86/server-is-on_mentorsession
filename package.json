@@ -1,0 +1,16 @@
+{
+  "name": "server-is-on_mentorsession",
+  "version": "1.0.0",
+  "description": "It's not always so easy in Codecool to follow the students status.\r We can lose in the hundreds of names and statuses, so CC ask students to help with the management.\r You have to create an API that manage the json files where the students data is in and make endpoints for output.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
